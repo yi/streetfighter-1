@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dominic da Costa -- Creative tech lead -- @dominic_pedro
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, SASS,
+    Require.js, D3.js
+    Grunt - for modules see package.json

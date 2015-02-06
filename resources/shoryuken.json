@@ -1,0 +1,186 @@
+{
+  "frames": {
+
+
+    "shoryuken01_01.png": {
+      "frame": {
+        "x": 494,
+        "y": 2,
+        "w": 35,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken02_02.png": {
+      "frame": {
+        "x": 531,
+        "y": 2,
+        "w": 38,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken03_03.png": {
+      "frame": {
+        "x": 571,
+        "y": 2,
+        "w": 45,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken04_04.png": {
+      "frame": {
+        "x": 618,
+        "y": 2,
+        "w": 38,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken05_05.png": {
+      "frame": {
+        "x": 618,
+        "y": 2,
+        "w": 38,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken06_06.png": {
+      "frame": {
+        "x": 658,
+        "y": 2,
+        "w": 28,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "shoryuken07_07.png": {
+      "frame": {
+        "x": 688,
+        "y": 2,
+        "w": 35,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "shoryuken.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 725,
+      "h": 114
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:8b2152b0fb1a13172ec3f2e3b0105fa8:d12867b2fda3f720d4156cf93689cc16:8bc328cbd8a35f3b3d2a51a32b38364f$"
+  }
+}

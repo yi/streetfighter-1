@@ -1,0 +1,11 @@
+{
+  "name": "pixi-frame-animations",
+  "version": "1.0.0",
+  "description": "a demo on using pixi frame animations",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dom da Costa @ derivco",
+  "license": "ISC"
+}
