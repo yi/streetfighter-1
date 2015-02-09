@@ -1,129 +1,329 @@
-{"frames": {
+{
+  "frames": {
 
-"tatsumaki01_01.png":
-{
-	"frame": {"x":2,"y":2,"w":40,"h":91},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":91},
-	"sourceSize": {"w":40,"h":91},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki02_02.png":
-{
-	"frame": {"x":2,"y":95,"w":32,"h":82},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":82},
-	"sourceSize": {"w":32,"h":82},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki03_03.png":
-{
-	"frame": {"x":2,"y":179,"w":55,"h":86},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":86},
-	"sourceSize": {"w":55,"h":86},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki04_04.png":
-{
-	"frame": {"x":2,"y":267,"w":34,"h":83},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":83},
-	"sourceSize": {"w":34,"h":83},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki05_05.png":
-{
-	"frame": {"x":2,"y":352,"w":55,"h":79},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":79},
-	"sourceSize": {"w":55,"h":79},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki06_06.png":
-{
-	"frame": {"x":2,"y":433,"w":33,"h":80},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":80},
-	"sourceSize": {"w":33,"h":80},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki07_07.png":
-{
-	"frame": {"x":2,"y":179,"w":55,"h":86},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":86},
-	"sourceSize": {"w":55,"h":86},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki08_08.png":
-{
-	"frame": {"x":2,"y":267,"w":34,"h":83},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":83},
-	"sourceSize": {"w":34,"h":83},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki09_09.png":
-{
-	"frame": {"x":2,"y":352,"w":55,"h":79},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":79},
-	"sourceSize": {"w":55,"h":79},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki10_10.png":
-{
-	"frame": {"x":2,"y":433,"w":33,"h":80},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":80},
-	"sourceSize": {"w":33,"h":80},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki11_11.png":
-{
-	"frame": {"x":2,"y":515,"w":34,"h":83},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":83},
-	"sourceSize": {"w":34,"h":83},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki12_12.png":
-{
-	"frame": {"x":2,"y":600,"w":29,"h":78},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":78},
-	"sourceSize": {"w":29,"h":78},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"tatsumaki13_13.png":
-{
-	"frame": {"x":2,"y":680,"w":30,"h":73},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":73},
-	"sourceSize": {"w":30,"h":73},
-	"pivot": {"x":0.5,"y":0.5}
-}},
-"meta": {
-	"app": "http://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "tatsumaki.png",
-	"format": "RGBA8888",
-	"size": {"w":59,"h":755},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:4f2b717ca5b4813f9c53e5890d7eeacf:b845d1fc3bfa7eebdfd6833b9df5ed4d:5b25ca228c8c9fbc2b23abbcd4bb5fd4$"
-}
+    "tatsumaki_01.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 40,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 91
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_02.png": {
+      "frame": {
+        "x": 2,
+        "y": 95,
+        "w": 32,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 82
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_03.png": {
+      "frame": {
+        "x": 2,
+        "y": 179,
+        "w": 55,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_04.png": {
+      "frame": {
+        "x": 2,
+        "y": 267,
+        "w": 34,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_05.png": {
+      "frame": {
+        "x": 2,
+        "y": 352,
+        "w": 55,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_06.png": {
+      "frame": {
+        "x": 2,
+        "y": 433,
+        "w": 33,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_07.png": {
+      "frame": {
+        "x": 2,
+        "y": 179,
+        "w": 55,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_08.png": {
+      "frame": {
+        "x": 2,
+        "y": 267,
+        "w": 34,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_09.png": {
+      "frame": {
+        "x": 2,
+        "y": 352,
+        "w": 55,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_10.png": {
+      "frame": {
+        "x": 2,
+        "y": 433,
+        "w": 33,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_11.png": {
+      "frame": {
+        "x": 2,
+        "y": 515,
+        "w": 34,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_12.png": {
+      "frame": {
+        "x": 2,
+        "y": 600,
+        "w": 29,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tatsumaki_13.png": {
+      "frame": {
+        "x": 2,
+        "y": 680,
+        "w": 30,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "tatsumaki.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 59,
+      "h": 755
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:4f2b717ca5b4813f9c53e5890d7eeacf:b845d1fc3bfa7eebdfd6833b9df5ed4d:5b25ca228c8c9fbc2b23abbcd4bb5fd4$"
+  }
 }

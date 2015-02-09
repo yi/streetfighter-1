@@ -2,7 +2,7 @@
   "frames": {
 
 
-    "shoryuken01_01.png": {
+    "shoryuken_01.png": {
       "frame": {
         "x": 494,
         "y": 2,
@@ -26,7 +26,7 @@
         "y": 0.5
       }
     },
-    "shoryuken02_02.png": {
+    "shoryuken_02.png": {
       "frame": {
         "x": 531,
         "y": 2,
@@ -50,7 +50,7 @@
         "y": 0.5
       }
     },
-    "shoryuken03_03.png": {
+    "shoryuken_03.png": {
       "frame": {
         "x": 571,
         "y": 2,
@@ -74,7 +74,7 @@
         "y": 0.5
       }
     },
-    "shoryuken04_04.png": {
+    "shoryuken_04.png": {
       "frame": {
         "x": 618,
         "y": 2,
@@ -98,7 +98,7 @@
         "y": 0.5
       }
     },
-    "shoryuken05_05.png": {
+    "shoryuken_05.png": {
       "frame": {
         "x": 618,
         "y": 2,
@@ -122,7 +122,7 @@
         "y": 0.5
       }
     },
-    "shoryuken06_06.png": {
+    "shoryuken_06.png": {
       "frame": {
         "x": 658,
         "y": 2,
@@ -146,7 +146,7 @@
         "y": 0.5
       }
     },
-    "shoryuken07_07.png": {
+    "shoryuken_07.png": {
       "frame": {
         "x": 688,
         "y": 2,
